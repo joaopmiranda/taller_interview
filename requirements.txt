@@ -1,0 +1,8 @@
+pandas
+sentence-transformers
+faiss-cpu
+numpy
+langchain-huggingface
+langchain
+langchain-community
+langchain-ollama
